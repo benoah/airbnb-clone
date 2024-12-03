@@ -1,3 +1,68 @@
+🏠 Airbnb Clone
+
+This Airbnb Clone is a React-based application designed to mimic the functionality and design of Airbnb. It allows users to search for accommodations, view available listings, and filter results by date. This project was built as part of my learning journey to explore React, routing, and state management.
+
+	1.	Responsive Design:
+	•	Fully responsive and mobile-friendly interface.
+	•	Modern design inspired by Airbnb.
+
+	2.	Search Functionality:
+	•	Search for available accommodations with filters.
+	•	Date selection powered by react-date-range.
+
+	3.	Routing:
+	•	Navigate between pages using React Router.
+
+	4.	Hosting:
+	•	Deployed using Firebase Hosting for fast and reliable performance.
+
+
+🛠️ Technologies Used
+
+![image](https://github.com/user-attachments/assets/e384d8c2-537e-49cf-8929-7e6951924fb0)
+![image](https://github.com/user-attachments/assets/eb2eebba-ebea-42a6-8620-b6e2c568d22f)
+
+
+📋 Requirements
+
+To run this project, you’ll need:
+	•	Node.js (v14+ recommended)
+	•	npm or yarn
+
+
+📁 Folder Structure
+
+	•	App.js: Main component orchestrating the application.
+	•	components/: Contains reusable components for the app.
+	•	pages/: Defines the different pages of the application, such as the Home and Search pages.
+	•	firebase.json: Configuration for Firebase Hosting.
+
+
+⚡ Key Functionalities
+
+1. Search Functionality
+
+	•	Users can search for accommodations by selecting dates using the react-date-range library.
+
+2. Routing
+
+	•	Navigation is handled with React Router, allowing seamless transitions between pages.
+
+3. Responsive Design
+
+	•	Fully responsive layout designed to work on mobile, tablet, and desktop.
+
+4. Firebase Hosting
+
+	•	The app is deployed using Firebase Hosting, providing fast loading and high reliability.
+
+⚡ Future Improvements
+
+	1.	Add a backend to handle user authentication and bookings.
+	2.	Implement a map feature to display property locations.
+	3.	Enhance the search functionality with advanced filters like price range and property type.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
